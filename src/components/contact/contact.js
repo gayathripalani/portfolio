@@ -35,10 +35,6 @@ export default function contact({ contactDetails }) {
                     <a href={contactDetails.githubLink} target={'_blank'} rel="noreferrer"><FontAwesomeIcon icon={faGithub} /></a>
                 </Container>
             </Container>
-            <Container textRight>
-                @2023 GP, All rights reserved.
-            </Container>
-
         </Container>
     )
 }
