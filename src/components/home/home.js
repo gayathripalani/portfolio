@@ -27,7 +27,7 @@ export default function home() {
                     <h2>{profile.firstName}{' '}{profile.lastName}</h2>
                     <h2>{profile.aboutLine1}</h2>
                     <p>I am a Software Developer, certified Product Owner, and Scrum Master, skilled in delivering comprehensive expertise in the design, development, testing, and maintenance of robust software systems. My proficiency extends across a diverse and promising skill-set, and I am well-versed in utilizing the latest cutting-edge development tools and methodologies. Whether independently managing projects or collaborating within a dynamic team, I bring effective self-management and a collaborative spirit to ensure the success of each endeavor.
-</p></Container>
+                </p></Container>
                 <Container className="profile-picture">
                 </Container>
                 <Container centerContent marginTop={'0.5rem'} className="social-icons-parent">

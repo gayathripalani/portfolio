@@ -1,18 +1,29 @@
-.home { 
+.home {
+    background: linear-gradient(45deg, #aaa8a7, #a6e3e9);
     height: 75vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
+}
+
+.home .intro * {
+    margin: 0;
+    padding: 0;
+}
+
+.home .intro {
+    width: fit-content;
+    margin: 0 auto;
 }
 
 .home .intro h2 {
-    padding: 0.2rem 5rem;
-    color: #1e1b31;
+    padding: 0.2rem 1rem;
+    color: #0e0424;
 }
 
 .home .intro p {
-    padding: 0.2rem 5rem;
-    color: #1e1b31;
+    padding: 0.2rem 1rem;
+    text-align: left;
     width: 70%;
     font-style: italic;
 }
@@ -20,12 +31,13 @@
 .home .profile-picture {
     border: 1px solid #666;
     background: #fff;
+    height: 15rem;
     width: 20rem;
     margin: 0 auto;
     margin-top: 1rem;
-    margin-right: 7rem;
+    margin-right: 2rem;
     box-shadow: 10px 10px 10px  rgba(0, 0, 0, 0.2) inset;
-    border-radius: 0.5rem;
+    border-radius: 50%;
     background-image: url('../../assets/images/IMG_DP.jpg');
     background-size: cover;
     background-position-x: 10px;
@@ -71,10 +83,12 @@
         display: none;
     }
     .home .social-icons-parent {
-        display: none;
-    }
+       display: none;
+   }
+   .home .intro p {
+        width: fit-content;
+   }
 }
-
 
 @media (min-width: 600px) { 
     .home {
@@ -84,7 +98,7 @@
         grid-row: 1;
         grid-column: 1;
         align-self: center;
-        padding-left: 1rem
+        padding-left: 1rem;
     }
     .home .profile-picture {
         grid-row: 1;
@@ -109,4 +123,5 @@
     .work-section .work-item {
         display: inline-block;
     }
+   
 }

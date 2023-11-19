@@ -44,7 +44,6 @@
 
 /* Menu list start */
 .menu__list {
-    position: absolute;
     width: 100%;
     list-style: none;
     padding: 0;
