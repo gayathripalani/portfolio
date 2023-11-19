@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Frontend",
+        "technologies": [
+            {
+                "name": "Typescript",
+                "experience": "3 years",
+                "lastVersionUsed": "4.0.2"
+            },
+            {
+                "name": "React",
+                "experience": "4 years",
+                "lastVersionUsed": "16, 17, 18"
+            },
+            {
+                "name": "Redux",
+                "experience": "2 years",
+                "lastVersionUsed": "4.0"
+            },
+            {
+                "name": "HTML",
+                "experience": "5 years",
+                "lastVersionUsed": "HTML5"
+            },
+            {
+                "name": "CSS",
+                "experience": "5 years",
+                "lastVersionUsed": "CSS3"
+            },
+            {
+                "name": "Javascript",
+                "experience": "7 years",
+                "lastVersionUsed": "ES6, ES7"
+            },
+            {
+                "name": "CMS",
+                "experience": "4 years",
+                "lastVersionUsed": "Enonic, Prismic"
+            },
+            {
+                "name": "Jest",
+                "experience": "2 years",
+                "lastVersionUsed": "5.11 / 3.5"
+            },
+            {
+                "name": "npm / yarn / webpack",
+                "experience": "Working knowledge"
+            }
+        ]
+    },
+    {
+        "name": "Backend",
+        "technologies": [
+            {
+                "name": "Node.js",
+                "experience": "Working knowledge",
+                "lastVersionUsed": "12.3.1"
+            },
+            {
+                "name": "Ruby on Rails",
+                "experience": "5 years",
+                "lastVersionUsed": "5"
+            },
+            {
+                "name": "PHP + Laravel",
+                "experience": "Working knowledge",
+                "lastVersionUsed": "5"
+            }
+        ]
+    },
+    {
+        "name": "Databases",
+        "technologies": [
+            {
+                "name": "MySql",
+                "experience": "Working knowledge"
+            },
+            {
+                "name": "MongoDB",
+                "experience": "Working knowledge"
+            },
+            {
+                "name": "PostgresQL",
+                "experience": "Working knowledge"
+            }
+        ]
+    },
+    {
+        "name": "DevOps",
+        "technologies": [
+            {
+                "name": "Git",
+                "experience": "7 years"
+            },
+            {
+                "name": "Trello / JIRA",
+                "experience": "3 years"
+            },
+            {
+                "name": "Confluence",
+                "experience": "3 years"
+            },
+            {
+                "name": "GitHub Actions",
+                "experience": "Working knowledge"
+            },
+            {
+                "name": "Docker",
+                "experience": "Working knowledge"
+            },
+            {
+                "name": "Kubernetes",
+                "experience": "Working knowledge"
+            },
+            {
+                "name": "AWS",
+                "experience": "Working knowledge"
+            }
+        ]
+    },
+    {
+        "name": "OS",
+        "technologies": [
+            {
+                "name": "MacOS",
+                "experience": ">10 years"
+            },
+            {
+                "name": "Windows",
+                "experience": ">10 years"
+            },
+            {
+                "name": "Linux",
+                "experience": "Working knowledge"
+            }
+        ]
+    }
+]

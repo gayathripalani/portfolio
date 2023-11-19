@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Telia",
+        "about": "Senior Frontend Developer",
+        "technologies": "React, Redux, HTML5, SCSS, NextJS, CMS, PHP",
+        "liveLink": "https://onecall.no"
+    },
+    {
+        "name": "Instabox",
+        "about": "Frontend Developer",
+        "technologies": "React, Typescript, HTML5, SCSS, NextJS, CMS, NodeJS",
+        "liveLink": "https://instabox.io"
+    },
+    {
+        "name": "Posten Norge",
+        "about": "Fullstack Developer",
+        "technologies": "React, Typescript, HTML5, SCSS, ES6, Angular, Ruby on Rails, ELK",
+        "liveLink": "https://posten.no"
+    }
+]
